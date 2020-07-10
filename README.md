@@ -1,1 +1,2 @@
-# C-30-re
+# p5.play-boilerplate
+Boiler plate for p5.play
